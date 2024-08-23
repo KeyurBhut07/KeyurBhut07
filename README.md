@@ -43,8 +43,8 @@ I enjoy solving puzzles and riddles! It keeps my mind sharp and helps me think o
 - **Database:** MongoDB, PostgreSQL
 
 ### 🌐 Connect with Me
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/keyur-cogtix](https://www.linkedin.com/i
-n/keyur-bhut-5a4a931b9/)) 
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/i
+n/keyur-bhut-5a4a931b9/]) 
  
 
 ---
