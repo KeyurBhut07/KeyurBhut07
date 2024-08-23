@@ -24,12 +24,6 @@ I’m a passionate **MERN Stack Developer** with **2 years of experience** in bu
 
 ---
 
-## 📫 Get in Touch
-Feel free to reach out to me via email:
-[**keyurbhut90@gmail.com**](mailto:keyurbhut90@gmail.com)
-
----
-
 ## 😄 Pronouns: **He/Him**
 
 ## ⚡ Fun Fact:
@@ -42,11 +36,12 @@ I enjoy solving puzzles and riddles! It keeps my mind sharp and helps me think o
 - **Backend:** Node.js, Express.js, Nest.js
 - **Database:** MongoDB, PostgreSQL
 
-### 🌐 Connect with Me
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/i
-n/keyur-bhut-5a4a931b9/]) 
- 
 
+
+## 📫 Get in Touch
+Feel free to reach out to me via email:
+[**keyurbhut90@gmail.com**](mailto:keyurbhut90@gmail.com)
+ 
 ---
 
 Thank you for visiting my profile! Let’s code and create something amazing together! 💡
