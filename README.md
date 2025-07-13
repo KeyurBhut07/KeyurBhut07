@@ -2,7 +2,7 @@
 
 ### 👋 Hi there, I’m **Keyur Bhut!**
 
-I’m a passionate **MERN Stack Developer** with **2 years of experience** in building dynamic web applications. I thrive on learning new technologies and experimenting with code.
+I’m a passionate **MERN Stack Developer** with **2.5+ years of experience** in building dynamic web applications. I thrive on learning new technologies and experimenting with code.
 
 ---
 
